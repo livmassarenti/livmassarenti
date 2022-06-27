@@ -4,9 +4,9 @@
 - 🌱 Estudando Algoritmos.
 - 😄 Pronouns: ela/dela
 - <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livmassarenti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmassarenti&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/livmassarenti">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livmassarenti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livmassarenti&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Liv-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg">
