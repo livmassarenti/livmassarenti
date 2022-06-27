@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lívia Massarenti!
+## Olá, eu sou a Lívia!
 
 - 🔭 Atualmente estou fazendo curso técnico em Eletrônica e estudando para trabalhar na área de programação.
 - 😄 Pronouns: ela/dela
