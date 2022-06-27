@@ -1,7 +1,6 @@
-## Olá! Eu sou a Lívia Massarenti
+## Olá! Eu sou a Lívia Massarenti!
 
-- 🔭 Atualmente estou estudando para trabalhar com programação.
-- 🌱 Estudando Algoritmos.
+- 🔭 Atualmente estou fazendo curso técnico em Eletrônica e estudando para trabalhar na área de programação.
 - 😄 Pronouns: ela/dela
 - <div align="center">
   <a href="https://github.com/livmassarenti">
